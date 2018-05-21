@@ -1,0 +1,2 @@
+pyserial==2.7
+Shapely==1.5.13
